@@ -1,6 +1,8 @@
 # text_analysis_of_donald_trump-s_twitter.github.io
-Text Analysis of Donald Trump’s Twitter
+Web Scraping & Text Mining of Donald Trump’s Twitter
 
-• Processed ~2,700 Donald Trump’s tweets data in 2020, tokenized loan descriptions, and removed stop words in R
+•	Scraped data from Donald Trump’s Twitter by setting API keys, accessing tokens, and creating Twitter connections
 
-• Visualized word frequency with word clouds; conducted a sentimental analysis, and summarized the analytical results
+•	Processed ~2,700 Donald Trump’s Twitter data points in Q1 2020, parsed and tokenized texts on tweets in R
+
+•	Visualized word frequency with word clouds, conducted sentiment analysis, and summarized social media analysis results
